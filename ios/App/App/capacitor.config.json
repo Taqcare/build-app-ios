@@ -7,7 +7,9 @@
 		"cleartext": true
 	},
 	"ios": {
-		"contentInset": "automatic"
+		"contentInset": "automatic",
+		"version": "1.4.0",
+		"buildNumber": "4"
 	},
 	"android": {
 		"contentInset": "automatic"
