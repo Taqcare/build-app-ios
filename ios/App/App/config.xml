@@ -6,7 +6,7 @@
   <access origin="*" />
 
   <platform name="ios">
-    <preference name="ios-CFBundleVersion" value="2" />
+    <preference name="ios-CFBundleVersion" value="4" />
   </platform>
 
 </widget>
