@@ -11,7 +11,7 @@ const config: CapacitorConfig = {
   },
   ios: {
     contentInset: 'automatic',
-    version: "1.0.0",
+    version: "1.4.0",
     buildNumber: "2"
   },
   android: {
